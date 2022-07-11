@@ -1,0 +1,29 @@
+             {
+                "id":1,
+                "titulo":"abc",
+                "artista":"abc",
+                "album":"abc",
+                "genero":"rock",
+                "anoLancamento":2020,
+                "compositor":"abc"
+            }
+
+            {
+                 "id":2,
+                "titulo":"abcd",
+                "artista":"abcd",
+                "album":"abcd",
+                "genero":"rock",
+                "anoLancamento":2021,
+                "compositor":"abcd"
+            }
+
+            {
+                    "id":3,
+                    "titulo":"abcde",
+                    "artista":"abcde",
+                    "album":"abcde",
+                    "genero":"rock",
+                    "anoLancamento":2022,
+                    "compositor":"abcde"
+            }
